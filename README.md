@@ -1,6 +1,6 @@
 # Two_Line_Elements
 
-An archive of Two Line Elements recorded for the "Pi of the Sky" project and SKA-Low all-sky transient searches.
+An archive of Two Line Elements collected by Marcin Sokolowski for the "Pi of the Sky" and SKA-Low all-sky transient searches.
 
 The TLEs are in https://www.dropbox.com/scl/fo/ybmszkxyz6bi71wtef8c4/h?dl=0&rlkey=1149gqfsgizlia3dls6dq0jca
 
